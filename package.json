@@ -10,7 +10,7 @@
   "author": "donaldxdonald",
   "license": "MIT",
   "dependencies": {
-    "@dndxdnd/eslint-config": "^0.0.2",
+    "@dndxdnd/eslint-config": "^0.0.4",
     "eslint": "^8.10.0",
     "tsup": "^5.12.0",
     "typescript": "^4.6.2"
