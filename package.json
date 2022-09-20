@@ -10,7 +10,7 @@
   "author": "donaldxdonald",
   "license": "MIT",
   "devDependencies": {
-    "@dndxdnd/eslint-config": "^1.0.1",
+    "@dndxdnd/eslint-config": "^1.0.2",
     "eslint": "^8.10.0",
     "lint-staged": "^13.0.1",
     "simple-git-hooks": "^2.8.0",
