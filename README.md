@@ -1,5 +1,5 @@
 
-<h1 align="center">🚀 My TS Lib Starter</h1>
+# 🚀 My TS Lib Starter
 
 ## Usage
 

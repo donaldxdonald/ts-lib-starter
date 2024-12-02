@@ -6,13 +6,13 @@
   "type": "module",
   "scripts": {
     "build": "tsup",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prepare": "simple-git-hooks"
   },
   "author": "donaldxdonald",
   "license": "MIT",
   "devDependencies": {
-    "@dndxdnd/eslint-config": "^2.6.3",
-    "eslint": "^9.15.0",
+    "@dndxdnd/eslint-config": "^2.8.0",
+    "eslint": "^9.16.0",
     "lint-staged": "^15.2.10",
     "simple-git-hooks": "^2.11.1",
     "tsup": "^8.3.5",
